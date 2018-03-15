@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: WooCommerce Tedarikçi
- * Plugin URI: http://www.recepuncu.github.io/woocommerce-tedarikci
+ * Plugin URI: http://github.com/recepuncu/woo-tedarikci
  * Description: Ürünün tedarikci adını saklamanızı sağlar.
  * Version: 1.0.0
  * Author: Recep UNCU
