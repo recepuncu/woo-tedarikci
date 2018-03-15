@@ -1,2 +1,2 @@
 # woo-tedarikci
-Ürünün tedarikçi adını saklamanızı sağlar.
+Ürünün tedarikçi adını saklamanızı sağlayacak eklenti.
