@@ -6,7 +6,7 @@
  * Description: Ürünün tedarikci adını saklamanızı sağlar.
  * Version: 1.0.0
  * Author: Recep UNCU
- * Author URI: http://www.recepuncu.github.io
+ * Author URI: http://recepuncu.github.io
  * License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  * @package WooCommerce/Templates
  * @author Recep UNCU
